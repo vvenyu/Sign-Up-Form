@@ -57,6 +57,7 @@ body {
 }
 
 .logo {
+    gap: 2rem;
     padding: 12px 0;
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
